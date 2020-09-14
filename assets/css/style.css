@@ -8,7 +8,7 @@
 }
 
 .bg-color-personal-info {
-    background-color: #f4f4f4;
+    background-color: #e67e22;
 }
 
 .bg-color-three-reasons {
@@ -17,6 +17,10 @@
 
 .bg-color-work-history {
     background-color: #9b59b6;
+}
+
+.bg-color-education {
+    background-color: #3498db;
 }
 
 .bg-color-contact {
