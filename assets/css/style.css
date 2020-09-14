@@ -345,6 +345,15 @@ footer {
     margin-bottom: 30px;
 }
 
+.average {
+    padding-bottom: 15px;
+}
+
+.workforce {
+    height: 1rem;
+    position: relative;
+}
+
 
 /*--------------Contact Form -------*/
 
