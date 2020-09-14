@@ -92,7 +92,7 @@ header {
 }
 
 .logo {
-    background: url("../images/rosie.jpg");
+    background: url("../images/img_0193.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -374,4 +374,5 @@ button[type="submit"] {
         min-height: 240px;
         margin: 0 auto;
         max-width: 50%;
-}   
+    }
+}
