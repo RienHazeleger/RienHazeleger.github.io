@@ -345,6 +345,14 @@ footer {
     background: #fafafa;
 }
 
+.timeline-item h4 {
+    font-size: 1.3rem;
+}
+
+.timeline-item p {
+    font-size: 0.9rem;
+}
+
 .history-items {
     margin-bottom: 30px;
 }
@@ -356,6 +364,7 @@ footer {
 .workforce {
     height: 1rem;
     position: relative;
+    font-size: 0.7rem;
 }
 
 
